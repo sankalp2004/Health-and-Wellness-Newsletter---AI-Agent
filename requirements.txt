@@ -1,0 +1,36 @@
+# LangChain + integrations
+langchain>=0.3.22
+langchain-core>=0.3.49
+langchain-openai>=0.3.12
+langchain-text-splitters>=0.3.7
+
+# API clients for external services
+openai>=1.70.0
+requests>=2.32.3  
+serpapi>=2.0.0  
+
+# Reddit API
+praw>=7.8.1  
+
+# Google Trends
+pytrends>=4.9.2
+
+# Arxiv + PubMed integration
+arxiv>=2.2.0
+biopython>=1.83  
+
+# PDF generation
+pdfkit>=1.0.0  
+wkhtmltopdf==0.12.6  
+
+# Environment variable handling
+python-dotenv>=1.1.0  
+
+# Data Validation & Modeling
+pydantic>=2.11.1  
+
+# General utility libraries
+beautifulsoup4>=4.13.3
+lxml>=5.3.1
+pandas>=2.2.3
+requests-toolbelt>=1.0.0
